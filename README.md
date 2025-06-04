@@ -1,1 +1,5 @@
-Este projeto trata-se do desenvolvimento do pensamento computacional em projetos de robótica educacional, utilizando o simulador tinkercad e arduino para alunos do 8 e 9 ano do ensino fundamental II
+  DESCRIÇÃO: Este material didático é fruto de uma pesquisa de projeto de Iniciação Científica (PAIC-FAPEAM), no curso de Licenciatura em Computaçao.
+  Na Univesdidade Do Estado do Amazonas (UEA), na unidade Centro de Estudos Superiores de Itacoatiara (CESIT).
+
+  - Bolsista: Eduardo de Andrade
+  - 
