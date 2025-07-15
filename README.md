@@ -8,5 +8,5 @@ para alunos do Ensino Fundamental II para o 8° e 9° ano.
 - Orientador: Genarde Macedo Trindade
 
 Título do Projeto: Desenvolvimento de atividades para o ensino do Pensamento Computacional em projetos de robótica educacional com kits de Arduino e o simulador Tinkercad
-Período de execução: 01.08.2024 à 31.07.2025
+  Período de execução: 01.08.2024 à 31.07.2025
 
